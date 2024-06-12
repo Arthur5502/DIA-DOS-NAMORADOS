@@ -1,3 +1,4 @@
+
 //Variables
 let mobile_media_query = window.matchMedia("(max-width: 400px)");
 let tablet_media_query = window.matchMedia(
